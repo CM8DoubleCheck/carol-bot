@@ -1,0 +1,13 @@
+{
+  "token": "CHANGEME",
+  "guildId": "825282824545370122",
+
+  "dm": {
+    "timings": [
+      "^https:\\/\\/timings\\.aikar\\.co\\/\\?id=.*$",
+      "^https:\\/\\/timings\\.pl3x\\.net\\/\\?id=.*$"
+    ],
+    "pastebin": ["^https:\\/\\/pastebin\\.com\\/.*$"]
+  },
+  "forward-dms-channel": "825534424053579826"
+}
