@@ -105,3 +105,6 @@ dist
 
 # JetBrans
 .idea/
+
+# Config
+config.json
